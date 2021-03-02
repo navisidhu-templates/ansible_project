@@ -4,6 +4,7 @@
 
 ### Ansible ###
 *.retry
+collections/ansible_collections/**
 
 ### Linux ###
 *~
